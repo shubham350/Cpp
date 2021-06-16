@@ -1,9 +1,7 @@
 # Cpp
-functions.cpp file contains the following functions:
-If a point lies to the left of a line or not.
-Finding if two lines intersect or not.
-Finding the point of interesection of two lines.
+functions.cpp file contains the following functions: 1) If a point lies to the left of a line or not.
+2)Finding if two lines intersect or not. 3)  Finding the point of interesection of two lines.
 
 readingtoarray.cpp
-This program read text from an input file. The input file contains coordinates of a polygon. The coordinates are stored sequentially in a 2 dimensional array. 
+This program reads text from an input file. The input file contains coordinates of a polygon. The coordinates are stored sequentially in a 2 dimensional array. 
 
