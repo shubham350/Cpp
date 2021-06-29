@@ -35,9 +35,11 @@ float radtodeg(float a)
 {
   return a*(180*7/22);
 }
+
+
 int main()
 {
-  Vector v1(2,1,0);
+  Vector v1(2,1,0); //for a 2-D vector add 0 at the end and use the same methods.
   Vector v2(2,4,0);
   std::cout << v1.arr[0]<<std::endl;
   std::cout << v1.norm()<<std::endl;
